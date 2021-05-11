@@ -1,5 +1,14 @@
-# BadElement
-# 访客计数器
+## 个人介绍
+
+**大家好！我是BadElement，自学编程中....**
+
+![BadEletment's GitHub stats](https://github-readme-stats.vercel.app/api?username=BadElement&theme=dracula&show_icons=true)
+
+## 我的项目
+.......
+
+- - -
+## 访客计数器
 ![:name](https://count.getloli.com/get/@BadElement?theme=gelbooru)
 
-![info](https://github-readme-stats.vercel.app/api?BadElement=CasterWx&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+
